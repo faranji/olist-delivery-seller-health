@@ -130,5 +130,5 @@ olist-delivery-seller-health/
 
 ## Author
 
-`Simanur Hattapoğlu` · [LinkedIn](https://www.linkedin.com/simanur-hattapoglu/) · [GitHub](https://github.com/faranji)
+`Simanur Hattapoğlu` · [LinkedIn](https://www.linkedin.com/in/simanurhattapoglu/) · [GitHub](https://github.com/faranji)
 
